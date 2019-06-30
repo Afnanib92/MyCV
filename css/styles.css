@@ -1,0 +1,39 @@
+body{
+background-color: #DFD6DF;
+}
+
+hr{
+  height: 0px;
+  width: 7%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width:10px;
+  border-color: white;
+}
+
+
+h1{
+color: silver;
+}
+
+p{
+  font-style: oblique;
+}
+
+h3{
+color: #66BFBF;
+
+}
+
+LI{
+COLOR:GREY;
+}
+
+TD{
+  COLOR: GREY;
+}
+
+a{
+
+  color: silver;
+}
